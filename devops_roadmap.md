@@ -45,4 +45,6 @@ reference devops shack
 12. **Monitoring Tools**
 		- Grafana
 		- Prometheus
-		  
+
+
+[extra](https://www.canva.com/design/DAF3f8aSnL4/_4aFV4xtinJEko-BUDlPcg/edit)	  
